@@ -15,7 +15,7 @@
 }
 
 #landing-page {
-    background: url("./images/landing.jpeg");
+    background: url("../images/landing.jpeg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
