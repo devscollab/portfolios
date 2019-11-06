@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    user-select: none;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+.page {
+    height: 100vh;
+    width: 100vw;
+}
+
+#landing-page {
+    background: url("/images/landing.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#landing-page .overlay {
+    height: 80vh;
+    width: 80vw;
+    background-color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 10px 15px 10px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+}
+
+.overlay h1 {
+    font-size: 8em;
+    color: #0a3745;
+}
+
+.overlay h2 {
+    font-size: 2em;
+    color: #0f1a1d7a;
+}
+
+#my-work-page {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-areas: "w-heading w-content";
+}
+
+.w-heading {
+    grid-area: w-heading;
+    display: flex;
+    justify-content: center;
+    background: #0a3745;
+    color: #ffffff;
+    font-size: 1.5em;
+    padding-top: 3em;
+    box-shadow: 5px 3px 14px 6px rgba(0, 0, 0, 0.31);
+}
+
+.w-content {
+    grid-area: w-content;
+    display: flex;
+    justify-content: flex-end;
+    padding: 2em;
+    flex-wrap: wrap;
+}
+
+.work-box {
+    margin: 2em;
+    width: 18vw;
+    height: 35vh;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: inset 4px 4px 13px 3px rgba(0, 0, 0, 0.05);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
