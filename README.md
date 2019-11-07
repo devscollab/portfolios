@@ -5,6 +5,6 @@ Hosting Repo for DevsCollab OpenSource Memeber Portfolios.
 
 ## Members
 
-<!-- [Full_Name](devscollab.github.io/portfolios/Folder_Name/) -->
+<!-- [Full_Name](https://devscollab.github.io/portfolios/Folder_Name/) -->
 
-[John Doe](devscollab.github.io/portfolios/johndoe/)
+[John Doe](https://devscollab.github.io/portfolios/johndoe/)
