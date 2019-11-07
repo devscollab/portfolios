@@ -1,2 +1,3 @@
 # portfolios
-Hosting Repo for DevsCollab OpenSource Memeber Portfolios
+
+Hosting Repo for DevsCollab OpenSource Memeber Portfolios.
