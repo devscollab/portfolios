@@ -12,3 +12,5 @@ Hosting Repo for DevsCollab OpenSource Memeber Portfolios.
 [Amritpal Singh Dhir](https://devscollab.github.io/portfolios/amritpal_singh_dhir/)
 
  [Vinit Pramod Hande](https://devscollab.github.io/portfolios/Vinit_Hande/)
+
+[Shubham Suresh Dudhal](https://devscollab.github.io/portfolios/shubham dudhal/)
