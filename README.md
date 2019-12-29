@@ -16,3 +16,5 @@ Hosting Repo for DevsCollab OpenSource Memeber Portfolios.
 [Shubham Suresh Dudhal](https://devscollab.github.io/portfolios/shubhamdudhal/)
 
 [Devendra Patil](https://devscollab.github.io/portfolios/devdeven/) 
+
+[Pratik Dhende](https://devscollab.github.io/portfolios/pratik-dhende/) 
