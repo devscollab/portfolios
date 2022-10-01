@@ -1,6 +1,7 @@
 # portfolios
 
 Hosting Repo for DevsCollab OpenSource Memeber Portfolios.
+You can view your portfolio at ```https://devscollab.github.io/portfolios/<username>```
 
 
 ## Members
